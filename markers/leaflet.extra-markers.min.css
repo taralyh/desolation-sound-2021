@@ -76,7 +76,8 @@
   left:0;
   top:0;
   display:block;
-  text-align:center;}
+  text-align:center;
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(303deg) brightness(103%) contrast(101%);}
 
 .extra-marker-circle-green-light{background-position:-432px 0}
 
