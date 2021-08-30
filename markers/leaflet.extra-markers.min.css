@@ -68,7 +68,15 @@
 
 .extra-marker-circle-green-dark{background-position:-360px 0; background:url('images/boat-outline.svg') no-repeat 0 0;}
 
-.extra-marker-circle-green{background-position:-396px 0; background:url('images/boat-outline.svg') no-repeat 0 0;}
+.extra-marker-circle-green{
+  background:url('images/boat-outline.svg') no-repeat 0 0;
+  width:35px;
+  height:46px;
+  position:absolute;
+  left:0;
+  top:0;
+  display:block;
+  text-align:center;}
 
 .extra-marker-circle-green-light{background-position:-432px 0}
 
