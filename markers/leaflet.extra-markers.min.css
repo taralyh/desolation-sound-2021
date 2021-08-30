@@ -18,7 +18,7 @@
     }
     
 .extra-marker-shadow{
-    background:url('images/markers_shadow.png') no-repeat 0 0;
+    /*background:url('images/markers_shadow.png') no-repeat 0 0;*/
     width:36px;
     height:16px;
     filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(303deg) brightness(103%) contrast(101%);
@@ -26,11 +26,11 @@
 
 @media (min--moz-device-pixel-ratio:1.5),(-webkit-min-device-pixel-ratio:1.5),(min-device-pixel-ratio:1.5),(min-resolution:1.5dppx){
     .extra-marker{
-        background-image:url('images/markers_default@2x.png');
+        /*background-image:url('images/markers_default@2x.png');*/
         background-size:540px 184px;
     }
     .extra-marker-shadow{
-        background-image:url('images/markers_shadow@2x.png');
+        /*background-image:url('images/markers_shadow@2x.png');*/
         background-size:35px 16px;
     }
 }
