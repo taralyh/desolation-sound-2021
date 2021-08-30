@@ -77,8 +77,8 @@
   border: 0px solid transparent;}
 
 .extra-marker-circle-dock{
-  --bg-url: url('images/accessibility-outline.svg') no-repeat 0 0;
-  background:url('images/accessibility-outline.svg') no-repeat 0 0;
+  --bg-url: url('images/accessibility.svg') no-repeat 0 0;
+  background:url('images/accessibility.svg') no-repeat 0 0;
   width:35px;
   height:46px;
   position:absolute;
