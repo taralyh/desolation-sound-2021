@@ -118,6 +118,11 @@ a.source:visited {
   padding: 20px;
 }
 
+.location {
+  text-align: center;
+  font-style: italic;
+}
+
 .in-focus {
   opacity: 1.0;
 }
