@@ -144,7 +144,7 @@ a.source:visited {
   If you want to change the color, see options here: https://github.com/coryasilva/Leaflet.ExtraMarkers/blob/master/src/assets/css/leaflet.extra-markers.css
 */
 .marker-active {
-  border: 1px solid #eeeeee;
+  background-url: var(--bg-url);
 }
 
 /* Storymap logo image above the title */
