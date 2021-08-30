@@ -152,7 +152,7 @@ $(window).on('load', function() {
         markers.push(
           L.marker([lat, lon], {
             icon: L.ExtraMarkers.icon({
-              icon: c['Marker Icon'],
+              icon: 'fa-coffee',
               number: c['Marker'] === 'Plain' ? '' : chapterCount,
               markerColor: c['Marker Color'] || 'blue'
             }),
