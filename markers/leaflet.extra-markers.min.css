@@ -48,6 +48,7 @@
 }
 
 .extra-marker-circle-boat{
+  --bg-url: url('images/boat-outline.svg') no-repeat 0 0;
   background:url('images/boat-outline.svg') no-repeat 0 0;
   width:35px;
   height:46px;
