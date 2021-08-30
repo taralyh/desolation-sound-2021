@@ -145,6 +145,7 @@ a.source:visited {
 */
 .marker-active {
   background-url: var(--bg-url);
+  border-style: none;
 }
 
 /* Storymap logo image above the title */
