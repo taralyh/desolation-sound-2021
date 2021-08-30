@@ -66,7 +66,7 @@
 
 .extra-marker-circle-pink{background-position:-324px 0}
 
-.extra-marker-circle-green-dark{background-position:-360px 0}
+.extra-marker-circle-green-dark{background-position:-360px 0; background:url('images/boat-outline.svg') no-repeat 0 0;}
 
 .extra-marker-circle-green{background-position:-396px 0; background:url('images/boat-outline.svg') no-repeat 0 0;}
 
@@ -98,7 +98,7 @@
 
 .extra-marker-square-green-dark{background-position:-360px -46px}
 
-.extra-marker-square-green{background-position:-396px -46px}
+.extra-marker-square-green{background-position:-396px -46px; background:url('images/boat-outline.svg') no-repeat 0 0;}
 
 .extra-marker-square-green-light{background-position:-432px -46px}
 
@@ -128,7 +128,7 @@
 
 .extra-marker-star-green-dark{background-position:-360px -92px}
 
-.extra-marker-star-green{background-position:-396px -92px}
+.extra-marker-star-green{background-position:-396px -92px; background:url('images/boat-outline.svg') no-repeat 0 0;}
 
 .extra-marker-star-green-light{background-position:-432px -92px}
 
@@ -158,7 +158,7 @@
 
 .extra-marker-penta-green-dark{background-position:-360px -138px}
 
-.extra-marker-penta-green{background-position:-396px -138px}
+.extra-marker-penta-green{background-position:-396px -138px; background:url('images/boat-outline.svg') no-repeat 0 0;}
 
 .extra-marker-penta-green-light{background-position:-432px -138px}
 
