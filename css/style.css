@@ -147,6 +147,7 @@ a.source:visited {
   background-url: var(--bg-url);
   border-style: none;
   border: 0px solid transparent;
+  filter: invert(97%) sepia(3%) saturate(11%) hue-rotate(49deg) brightness(101%) contrast(106%);
 }
 
 /* Storymap logo image above the title */
