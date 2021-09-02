@@ -214,7 +214,7 @@ $(window).on('load', function() {
           src: c['Media Link'],
           width: '100%',
           height: '300',
-          frameBorder: 0,
+          frameBorder: '0',
           allowtransparency: 'true',
           allow:'encrypted-media',
         });
