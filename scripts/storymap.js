@@ -222,6 +222,7 @@ $(window).on('load', function() {
         mediaContainer = $('<div></div>', {
           class: 'img-container'
         }).append(media).after(source);
+      }
         
 
       // If not YouTube: either audio or image
