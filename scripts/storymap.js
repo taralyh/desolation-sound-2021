@@ -213,7 +213,7 @@ $(window).on('load', function() {
         media = $('<iframe></iframe>', {
           src: c['Media Link'],
           width: '100%',
-          height: '100%',
+          height: '300',
           frameBorder: '0',
           allowtransparency: 'true',
           allow:'encrypted-media',
