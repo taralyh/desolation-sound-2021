@@ -280,7 +280,7 @@ $(window).on('load', function() {
     imgContainerHeight = parseInt(getSetting('_imgContainerHeight'));
     if (imgContainerHeight > 0) {
       $('.img-container').css({
-        'height': imgContainerHeight + 'px',
+        //'height': imgContainerHeight + 'px',
         'max-height': imgContainerHeight + 'px',
       });
     }
