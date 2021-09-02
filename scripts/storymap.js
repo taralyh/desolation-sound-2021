@@ -220,7 +220,7 @@ $(window).on('load', function() {
         });
         
         mediaContainer = $('<div></div>', {
-          class: 'audio-container'
+          class: 'img-container'
         }).append(media).after(source);
       }
         
