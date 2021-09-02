@@ -213,14 +213,14 @@ $(window).on('load', function() {
         media = $('<iframe></iframe>', {
           src: c['Media Link'],
           width: '100%',
-          height: '300',
+          height: '100%',
           frameBorder: '0',
           allowtransparency: 'true',
           allow:'encrypted-media',
         });
         
         mediaContainer = $('<div></div>', {
-          class: 'img-container'
+          class: 'audio-container'
         }).append(media).after(source);
       }
         
