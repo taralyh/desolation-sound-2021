@@ -207,6 +207,22 @@ $(window).on('load', function() {
           class: 'img-container'
         }).append(media).after(source);
       }
+      
+      // Spotify
+      if (c['Media Link'] && c['Media Link'].indexOf('spotify.com/') > -1) {
+        media = $('<iframe></iframe>', {
+          src: c['Media Link'],
+          width: '100%',
+          height: '300',
+          frameBorder: 0,
+          allowtransparency: 'true',
+          allow:'encrypted-media',
+        });
+        
+        mediaContainer = $('<div></div>', {
+          class: 'img-container'
+        }).append(media).after(source);
+        
 
       // If not YouTube: either audio or image
       var mediaTypes = {
